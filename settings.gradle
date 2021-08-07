@@ -1,0 +1,2 @@
+rootProject.name='FlipImage_app_by_command'
+include ':app'
